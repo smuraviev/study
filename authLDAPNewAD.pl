@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-#  version 2.0. - 2018.11.13
+#  version 2.0. - 2018.11.13 # had been tested for months: not a single disconnection!
 #  Sample External Authenticaton program for CommuniGate Pro 
 #  that employs LDAP "bind", supports the account creation
 #  via NEW command. 
